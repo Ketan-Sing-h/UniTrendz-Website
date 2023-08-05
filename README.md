@@ -1,5 +1,8 @@
 # <p align="center"> UNITRENDZ - A Shopping Website for College Students </p>
+<div align="center">
+  
 ![output-onlinepngtools](https://github.com/Ketan-Sing-h/UniTrendz-Website/assets/102852482/7430fd58-2bd1-4f5a-8c97-b8c67684af1c)
+</div>
 
 ### Welcome to UNITRENDZ, an innovative e-commerce platform tailored exclusively for college students. This project aims to provide a seamless shopping experience, addressing the unique needs and preferences of college life.
 
