@@ -1,5 +1,6 @@
-# UNITRENDZ - A Shopping Website for College Students
-![Screenshot_2023-08-06_002443-removebg-preview](https://github.com/Ketan-Sing-h/UniTrendz-Website/assets/102852482/856eea7f-6f95-4e5b-88cf-91ba5cea0beb)
+# <p align="center"> UNITRENDZ - A Shopping Website for College Students </p>
+<p align="center">![output-onlinepngtools](https://github.com/Ketan-Sing-h/UniTrendz-Website/assets/102852482/7430fd58-2bd1-4f5a-8c97-b8c67684af1c)</p>
+
 Welcome to UNITRENDZ, an innovative e-commerce platform tailored exclusively for college students. This project aims to provide a seamless shopping experience, addressing the unique needs and preferences of college life.
 
 ## Features
@@ -10,7 +11,6 @@ Welcome to UNITRENDZ, an innovative e-commerce platform tailored exclusively for
 
 ## Screenshots
 ![image](https://github.com/Ketan-Sing-h/UniTrendz-Website/assets/102852482/a24f3b31-9edb-4f09-9f80-95c37f096aeb)
-![image](https://github.com/Ketan-Sing-h/UniTrendz-Website/assets/102852482/50aeeccf-c7a9-499f-84de-062edbdb0888)
 ![image](https://github.com/Ketan-Sing-h/UniTrendz-Website/assets/102852482/4dd412e7-f78b-46bc-b540-28f6e9105e55)
 ![image](https://github.com/Ketan-Sing-h/UniTrendz-Website/assets/102852482/e869a748-5075-426b-a5ec-946e93fbaedb)
 ![image](https://github.com/Ketan-Sing-h/UniTrendz-Website/assets/102852482/9c678bc7-0056-4f1f-9524-87b556e3754c)
