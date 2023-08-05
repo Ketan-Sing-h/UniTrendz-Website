@@ -14,10 +14,10 @@ Welcome to UNITRENDZ, an innovative e-commerce platform tailored exclusively for
 ![image](https://github.com/Ketan-Sing-h/UniTrendz-Website/assets/102852482/4dd412e7-f78b-46bc-b540-28f6e9105e55)
 ![image](https://github.com/Ketan-Sing-h/UniTrendz-Website/assets/102852482/e869a748-5075-426b-a5ec-946e93fbaedb)
 ![image](https://github.com/Ketan-Sing-h/UniTrendz-Website/assets/102852482/9c678bc7-0056-4f1f-9524-87b556e3754c)
-![image](https://github.com/Ketan-Sing-h/UniTrendz-Website/assets/102852482/09fc797f-e62b-4ab5-9d68-e1381d1b9f9a)
-![image](https://github.com/Ketan-Sing-h/UniTrendz-Website/assets/102852482/a085e4e8-beab-4605-8929-1157cea68da4)
-![image](https://github.com/Ketan-Sing-h/UniTrendz-Website/assets/102852482/4c418027-d5d1-4844-9109-d97d5080a3e6)
-![image](https://github.com/Ketan-Sing-h/UniTrendz-Website/assets/102852482/52bb7c5e-f350-4c01-990f-63122f28b5f4)
+![image](https://github.com/Ketan-Sing-h/UniTrendz-Website/assets/102852482/62e40fea-4a22-4020-bd61-0f69f35948c7)
+![image](https://github.com/Ketan-Sing-h/UniTrendz-Website/assets/102852482/0bc7bc0b-0f60-453f-b128-7c55fbe56b47)
+![image](https://github.com/Ketan-Sing-h/UniTrendz-Website/assets/102852482/7c6ada9c-c377-4d46-8ec5-33be5cab6c8c)
+![image](https://github.com/Ketan-Sing-h/UniTrendz-Website/assets/102852482/5bb77441-c68e-4486-b174-88bba0553e07)
 
 ## Technologies Used
 - HTML
