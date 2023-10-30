@@ -1,16 +1,15 @@
-# <p align="center"> UNITRENDZ - A Shopping Website for College Students </p>
+# <p align="center"> UNITRENDZ - E-Commerce Website </p>
 <div align="center">
   
 ![output-onlinepngtools](https://github.com/Ketan-Sing-h/UniTrendz-Website/assets/102852482/7430fd58-2bd1-4f5a-8c97-b8c67684af1c)
 </div>
 
-### Welcome to UNITRENDZ, an innovative e-commerce platform tailored exclusively for college students. This project aims to provide a seamless shopping experience, addressing the unique needs and preferences of college life.
+### Welcome to UNITRENDZ, an innovative e-commerce platform. This project aims to provide a seamless shopping experience, addressing the unique needs and preferences of the customers.
 
 ## Features
-- **Tailored for College Students:** UniTrendz offers a unique shopping experience tailored to the needs and preferences of college students.
+- **Tailored for Customers:** UniTrendz offers a unique shopping experience tailored to the needs and preferences of the customers.
 - **Captivating User Interface:** Leveraging the power of HTML, CSS, and JavaScript, the platform boasts a captivating user interface that seamlessly adapts to various devices.
-- **User-Centric Design:** The User Interface was thoughtfully crafted on Figma, resulting in a visually appealing and intuitive design that garnered a staggering 90% positive user feedback.
-- **Collaborative Development:** Developed collaboratively within a two-person team, UniTrendz emphasizes smooth functionality and responsive design to enhance user satisfaction.
+- **User-Centric Design:** The User Interface was thoughtfully crafted, resulting in a visually appealing and intuitive design.
 
 ## Screenshots
 ![image](https://github.com/Ketan-Sing-h/UniTrendz-Website/assets/102852482/a24f3b31-9edb-4f09-9f80-95c37f096aeb)
